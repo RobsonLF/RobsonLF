@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div align="right">
+  <img src="gif.gif" width="325px">
+</div>
+
+<img src="banner_codding.gif" width="325px">
+
+
+
+
 <!--
 **RobsonLF/RobsonLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

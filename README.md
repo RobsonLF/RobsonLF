@@ -1,5 +1,5 @@
 
-## `Robson Ferreira`
+<img src="gnom.png width=24px"> `Robson Ferreira`
 
 <div align="left">
   <a href="https://www.linkedin.com/in/robson-luis-ferreira/" target="_blank">

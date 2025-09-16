@@ -26,15 +26,11 @@
 
 <p align="left">- 🖥️Analista de projetos na área de  Engenharia de Refratários<br>- 🎓Estudante de Engenharia de Softwares<br>- 🌐Aprendendo Desenvolvimento Web</p>
 
-###
-
-<h2 align="left">Tech</h2>
-
-###
-
 <br clear="both">
 
 <img align="right" height="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8wOTU3bm95YTBpNmN5eHcwcHFrbjB5cnY1b3RhdjBpdjViYmZqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+### Tech
 
 ###
 
@@ -64,7 +60,7 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+### Estatísticas
 
 ###
 

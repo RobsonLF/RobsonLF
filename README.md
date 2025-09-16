@@ -28,11 +28,9 @@
 
 <br clear="both">
 
-<img align="right" height="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8wOTU3bm95YTBpNmN5eHcwcHFrbjB5cnY1b3RhdjBpdjViYmZqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8wOTU3bm95YTBpNmN5eHcwcHFrbjB5cnY1b3RhdjBpdjViYmZqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ### Tech
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
